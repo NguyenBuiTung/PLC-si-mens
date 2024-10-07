@@ -1,0 +1,39 @@
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7-1200 with CSharp.exe.config
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7-1200 with CSharp.exe
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7-1200 with CSharp.pdb
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7.Net.dll
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7.Net.xml
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.csprojResolveAssemblyReference.cache
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7_1200_with_CSharp.Form1.resources
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7_1200_with_CSharp.Properties.Resources.resources
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.csproj.GenerateResource.Cache
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.exe
+D:\Nghien-cuu\Visual-Studio\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.pdb
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7-1200 with CSharp.exe.config
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7-1200 with CSharp.exe
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7-1200 with CSharp.pdb
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7.Net.xml
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.csproj.AssemblyReference.cache
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7_1200_with_CSharp.Form1.resources
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7_1200_with_CSharp.Properties.Resources.resources
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.csproj.GenerateResource.cache
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.csproj.CoreCompileInputs.cache
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 .D57C8D44.Up2Date
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.exe
+C:\Users\vluan\OneDrive\Máy tính\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.pdb
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7-1200 with CSharp.exe.config
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7-1200 with CSharp.exe
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7-1200 with CSharp.pdb
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\bin\Debug\S7.Net.xml
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.csproj.AssemblyReference.cache
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7_1200_with_CSharp.Form1.resources
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7_1200_with_CSharp.Properties.Resources.resources
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.csproj.GenerateResource.cache
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.csproj.CoreCompileInputs.cache
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 .D57C8D44.Up2Date
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.exe
+D:\Tài liệu kết nối PLC\S7-1200 with CSharp (1)\S7-1200 with CSharp\S7-1200 with CSharp\obj\Debug\S7-1200 with CSharp.pdb
